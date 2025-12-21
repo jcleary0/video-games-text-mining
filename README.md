@@ -1,6 +1,6 @@
 # Amazon Video Game Reviews — Text Analytics & Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 Online customer reviews play a critical role in shaping consumer purchasing decisions and influencing product success, particularly in large digital marketplaces such as Amazon. These reviews contain vast amounts of unstructured textual data that reflect customer experiences, opinions, and satisfaction levels. Effectively analyzing this text at scale requires the application of text mining and machine learning techniques.
 
@@ -8,7 +8,7 @@ This project applies an end-to-end text analytics workflow to the Amazon Video G
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The primary objectives of this project are to:
 
@@ -20,7 +20,7 @@ The primary objectives of this project are to:
 
 ---
 
-## 🧠 Methods & Techniques
+## Methods & Techniques
 
 This project incorporates a comprehensive set of text analytics and machine learning methods, including:
 
@@ -35,7 +35,7 @@ Together, these techniques form a complete pipeline for analyzing large-scale cu
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** Amazon Video Game Reviews dataset  
 - **Data Includes:**
@@ -48,7 +48,7 @@ The dataset provides a rich foundation for examining the relationship between te
 
 ---
 
-## 🚀 Key Takeaways
+## Key Takeaways
 
 - Unstructured customer review text can be transformed into structured insights using text analytics  
 - Unsupervised learning reveals hidden patterns and groupings in customer feedback  
